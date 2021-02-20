@@ -2,7 +2,7 @@
 * These files are upgradable packages list in environment.
 * One of files is current+today.txt that is current version list.
 * Anther of files is update.txt that is upgradable version list. 
-* You can use "pip install -r .pip-update/update.txt" to upgrade your packages or recovery by anther file.
+* You can use "pip install -r ./pip-update/update.txt" to upgrade your packages or recovery by anther file.
 
 **This program require pip>9.0.1**
 
